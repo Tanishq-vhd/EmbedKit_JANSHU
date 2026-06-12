@@ -2,8 +2,7 @@
 
 Embedded Developer Assignment (Fresher) — Embed Square Solutions Pvt. Ltd.
 
-## Author
-Your Name
+
 
 ## Build Instructions
 
